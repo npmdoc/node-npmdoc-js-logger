@@ -1,4 +1,7 @@
-# api documentation for  [js-logger (v1.3.0)](http://github.com/jonnyreeves/js-logger)  [![npm package](https://img.shields.io/npm/v/npmdoc-js-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-js-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-js-logger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-js-logger)
+# npmdoc-js-logger
+
+#### basic api documentation for  [js-logger (v1.3.0)](http://github.com/jonnyreeves/js-logger)  [![npm package](https://img.shields.io/npm/v/npmdoc-js-logger.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-js-logger) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-js-logger.svg)](https://travis-ci.org/npmdoc/node-npmdoc-js-logger)
+
 #### Lightweight, unobtrusive, configurable JavaScript logger
 
 [![NPM](https://nodei.co/npm/js-logger.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/js-logger)
@@ -71,7 +74,8 @@
         "test": "gulp test lint"
     },
     "typings": "./src/logger.d.ts",
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
